@@ -3,7 +3,7 @@
 Welcome to my Data Structures lab assignment repository. 
 This collection documents my implementation of various fundamental data structures and algorithms, 
 covering Stacks, Queues, Arrays, Linked Lists, and various Searching and Sorting techniques.
-##Structure
+#Structure
 Each unit folder contains the respective C++ source code and execution outputs.
  * Lab 01: Stack Operations
  * Lab 02: Queue Operations
