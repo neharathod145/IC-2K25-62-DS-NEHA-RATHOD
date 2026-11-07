@@ -1,4 +1,4 @@
-Lab 02 Queue Operations
+Lab 04 Queue Operations
 Problem Statement:
 This lab implements the Queue data structure using arrays, enforcing the FIFO principle.
 It supports insert, delete, and display operations.
