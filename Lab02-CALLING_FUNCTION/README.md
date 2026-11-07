@@ -1,4 +1,4 @@
-Lab 04 Function Calling Mechanisms
+Lab 02 Function Calling Mechanisms
 Problem Statement:
 This lab explores basic function invocation, parameter passing, and control flow between calling and called functions in C++.
 Approach:
