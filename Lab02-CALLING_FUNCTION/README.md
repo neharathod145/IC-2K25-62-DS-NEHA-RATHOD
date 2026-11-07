@@ -1,4 +1,4 @@
-Lab 03 Circular Queue Operations
+Lab 02 Circular Queue Operations
 Problem Statement:
 This lab implements the Circular Queue data structure to resolve memory wastage in linear queues
 by connecting the rear back to the front using modulo operations.
