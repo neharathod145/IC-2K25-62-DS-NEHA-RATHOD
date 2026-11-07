@@ -1,4 +1,4 @@
-Lab 01 Stack Operations
+Lab 03 Stack Operations
 Problem Statement:
 In this lab, we have implemented the stack data structure using arrays.
 The first program implements a basic stack, while the second manages two stacks within a single array (Multiple Stack)
