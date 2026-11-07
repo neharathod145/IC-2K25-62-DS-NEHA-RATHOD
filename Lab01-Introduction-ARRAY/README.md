@@ -1,4 +1,4 @@
-Lab 05 Array Operations
+Lab 01 Array Operations
 Problem Statement:
 This lab implements fundamental array operations including traversal, insertion, finding
 minimum and maximum values, and reversing the array elements.
